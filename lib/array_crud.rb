@@ -35,7 +35,7 @@ end
 
 def retrieve_first_element_from_array(array)
   retrieve_first_element_from_array = ["wow", "already", "arrays!"]
-  retrieve_first_element_from_arraylearn.first
+  retrieve_first_element_from_array.first
 end
 
 def retrieve_last_element_from_array(array)
